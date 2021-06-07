@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6489a14-4771-47aa-b94f-14c5fddfcf75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/counter/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/counter/Counter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/user/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/user/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/user/UserDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/user/UserDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/user/UserEdit.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/user/UserEdit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/user/UserList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/user/UserList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
