@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6489a14-4771-47aa-b94f-14c5fddfcf75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../counter/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/components/counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/components/todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/src/components/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../counter/src/components/counter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
